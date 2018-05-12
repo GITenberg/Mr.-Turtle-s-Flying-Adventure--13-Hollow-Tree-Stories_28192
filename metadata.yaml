@@ -1,0 +1,35 @@
+_repo: Mr.-Turtle-s-Flying-Adventure--13-Hollow-Tree-Stories_28192
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Condé, J. M.
+    alias: Conde, J. M.
+    gutenberg_agent_id: '26466'
+    url: http://www.gutenberg.org/2009/agents/26466
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Paine, Albert Bigelow
+    birthdate: 1861
+    deathdate: 1937
+    gutenberg_agent_id: '1076'
+    url: http://www.gutenberg.org/2009/agents/1076
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Bigelow_Paine
+description: ''
+gutenberg_issued: '2009-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28192'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Animals -- Juvenile fiction'
+tableOfContents: Mr. Turtle's flying adventure -- The deep woods elopement -- In Mr.
+  Man's car -- Mr. 'Possum's car -- How Mr. 'Possum's tail became bare.
+title: "Mr. Turtle's Flying Adventure\r\nHollow Tree Stories"
+url: http://www.gutenberg.org/ebooks/28192
